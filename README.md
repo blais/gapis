@@ -1,7 +1,7 @@
-# Auth Files Management for Locals Scripts for Google Apis.
+# Auth Files Management for Scripts using Google APIs
 
 Supports JSON secrets for both service account and OAuth.
-Files are stored in ~/.google/<name>.json.
+Files are stored in `~/.google/<name>.json`.
 
 ## Motivation
 
